@@ -1,0 +1,10 @@
+.welcome-section {
+    text-align: center;
+    padding: 80px 0;
+  }
+
+.content-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
